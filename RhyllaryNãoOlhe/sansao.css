@@ -1,0 +1,21 @@
+p {
+    color: rgb(94, 43, 117);
+}
+h1 {
+    color: blueviolet;
+}
+h3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:plum;
+}
+#engual{position:relative;top:0;padding:4px;background-color: plum;
+    transition: all .2s ease-in-out;
+    border-radius: 30px;
+    border-style:groove;
+    border-color: blueviolet;
+    height: 400px;
+    width: 400px;
+}
+#engual:hover{
+    top:-4px;box-shadow:0 4px 3px #999;
+}
