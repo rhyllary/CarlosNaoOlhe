@@ -13,5 +13,4 @@ insana
 
 /tá bom então, vai lá arqueólogo quero ver só não duvido.
 /huhummm não chamou né maluca e doida é oq hemmmmmm hemmmmmmm???????? (eu sei que eu sou aff)
-nao da pra bota la o readme pq n tenho permissão :(
-mas cuidado ai com oq vc entra, alguns podem ser só uma vez q é permitido
+KKKKKKKKKKKKK ja descobri todo o sitio arqueologico
