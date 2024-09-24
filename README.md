@@ -14,3 +14,5 @@ insana
 /tá bom então, vai lá arqueólogo quero ver só não duvido.
 /huhummm não chamou né maluca e doida é oq hemmmmmm hemmmmmmm???????? (eu sei que eu sou aff)
 KKKKKKKKKKKKK ja descobri todo o sitio arqueologico
+
+tenho certeza que vc deixou coisa pra trás, tenho certeza absoluta
