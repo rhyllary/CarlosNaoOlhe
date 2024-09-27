@@ -19,3 +19,4 @@ tenho certeza que vc deixou coisa pra trás, tenho certeza absoluta
 (eu realmente tinha deixado coisa pra trás) :(
 /eu disse né🤷‍♀️ (primeira vez certa hihi)//(EIIIIIII COMO ASSIM PRIMEIRA VEZ?¿?¿?, eu estou quase sempre certa tá😌)
 KKKKKKKKKK confia vai
+EU SOU A RAZÃO😌
